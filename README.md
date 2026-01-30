@@ -1,5 +1,6 @@
 # QA Automation Challenges
 
+# Autor - Nereu Costa
 Este repositório contém desafios de automação de testes com foco em boas práticas de QA, organização de projeto e integração contínua.
 
 O projeto contempla:
