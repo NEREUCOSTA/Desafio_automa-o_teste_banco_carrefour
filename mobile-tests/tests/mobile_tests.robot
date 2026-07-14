@@ -12,7 +12,7 @@ Test Teardown     Capture Page Screenshot
 
 *** Test Cases ***
 
-# ---------- LOGIN ----------
+## ---------- LOGIN ----------##
 
 Login válido
     Login Com Credenciais    bob@example.com    10203040
