@@ -4,6 +4,7 @@ Library    Collections
 Resource   Auth.resource
 
 *** Variables ***
+
 ${BASE_URL}    https://serverest.dev
 
 *** Keywords ***
@@ -13,3 +14,5 @@ Criar Sessao API
 Setup Suite API
     Criar Sessao API
     Autenticar Usuario
+
+####    

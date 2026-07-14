@@ -108,3 +108,5 @@ Atualizar usuario sem token
     ...    true
 
     Should Be Equal As Integers    ${response.status_code}    400
+
+###

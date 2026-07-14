@@ -67,3 +67,6 @@ Buscar Usuario Por Id
     ...    expected_status=${expected_status}
 
     RETURN    ${response}
+
+
+###
