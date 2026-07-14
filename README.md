@@ -1,6 +1,6 @@
-# QA Automation Challenges
+# QA Automation Challenges Carrefour
 
-# Autor - Nereu Costa
+# Autor - Nereu Costa Nogueira
 Este repositório contém desafios de automação de testes com foco em boas práticas de QA, organização de projeto e integração contínua.
 
 O projeto contempla:
